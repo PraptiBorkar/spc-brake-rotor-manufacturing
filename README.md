@@ -44,7 +44,7 @@ investigation.
 
 ## Author
 Prapti Borkar
-B.Tech Metallurgical & Materials Engineering, Second Year
+2nd Year B.Tech Metallurgical & Materials Engineering
 Indian Institute of Technology, Ropar
 
 ## Reference
